@@ -1,0 +1,13 @@
+﻿Samples Naming Convention
+-------------------------
+The samples use the naming convention with the following syntax:
+
+MM_NNNN_SS
+
+This translates as follows:
+
+MM: Two-letter abbreviation for the sample collection: C1 (Cassette 1), C2 (Cassette 2), or CL (Clean).
+
+NNNN: Four-character abbreviation for the instrument name.
+
+SS (only for hi-hats): Specifies the playing technique - CL (closed) and OP (Open).
